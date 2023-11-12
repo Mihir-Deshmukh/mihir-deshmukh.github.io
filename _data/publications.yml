@@ -1,0 +1,22 @@
+main:
+
+  - title: "Deep Learning based end-to-end Grasping Pipeline on a lowcost 5-DOF Robotic arm"
+    authors: P. Junare,  <strong>M. Deshmukh</strong>, M. Kulkarni and P. Bartakke
+    conference_short: INDICON
+    conference: IEEE 19th India Council International Conference <strong>(INDICON)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10040180
+    code: https://github.com/Mihir-Deshmukh/Robotic-Grasping
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Grasping.png
+    notes: 
+
+  - title: "Visual SLAM Combined with Object Detection for Autonomous Indoor Navigation Using Kinect V2 and ROS"
+    authors: M. Kulkarni, P. Junare, <strong>M. Deshmukh</strong> and P. P. Rege
+    conference_short: ICCCA
+    conference: IEEE 6th International Conference on Computing,Communication and Automation <strong>(ICCCA)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9666426
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: 
+    image: ./assets/img/perception.png
