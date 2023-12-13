@@ -1,5 +1,13 @@
 ## Projects
 
+<h4 style="margin:0 10px 0;">Dexterous Picking Manipulation.</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a><autocolor>Directed Research, Advisor - Dr. Berk Calli</autocolor></a></li>
+  <li><a><autocolor>Working on identifying grasp candidates for diverse object interactions like sliding and pushing in vertical and horizontal orientations.</autocolor></a></li>
+  <li><a><autocolor>Generated simulation data and subsequently concentrated on developing and training models using this data, focusing on transitioning them into real-world applications.</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Deep Learning based Robotic Grasping of unknown objects.</h4>
 
 <ul style="margin:0 0 5px;">
