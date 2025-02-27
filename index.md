@@ -9,7 +9,7 @@ I am interested in the domain of Robotics, specifically Perception, Computer Vis
 
 
 
-*I am currently seeking internship opportunities for Summer'24*
+*I am currently seeking full time opportunities from Summer'25*
 
 ## Academic Background
 
