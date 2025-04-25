@@ -1,4 +1,13 @@
 main:
+  - title: "Leveraging Dexterous Picking Skills for Complex Multi-Object Scenes"
+    authors: A. R. Dangle, <strong>M. P. Deshmukh</strong>, D. Boby and B. Calli
+    conference_short: Humanoids
+    conference: IEEE-RAS 23rd International Conference on Humanoid Robots <strong>(Humanoids)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10769789
+    code: 
+    image: ./assets/img/DexterousPicking.png
+    notes: 
+
 
   - title: "Deep Learning based end-to-end Grasping Pipeline on a lowcost 5-DOF Robotic arm"
     authors: P. Junare,  <strong>M. Deshmukh</strong>, M. Kulkarni and P. Bartakke
