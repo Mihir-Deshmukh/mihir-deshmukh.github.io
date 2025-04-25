@@ -1,5 +1,13 @@
 ## Experience
 
+
+<h4 style="margin:0 10px 0;">Magna Electronics - Software Algorithm Intern</h4>
+<ul style="margin:0 0 5px;">
+  <li><a><autocolor>Performed Lidar–Camera extrinsic calibration to project Lidar-generated 3D bounding boxes into BEV space, enabling ground truth comparison for monocular camera-based object detection.</autocolor></a></li>
+  <li><a><autocolor>Processed CAN bus data to extract GNSS information for HD map queries, enabling real-time location spoofing, lane profile reconstruction, and hardware-independent debugging environment.</autocolor></a></li>
+  <li><a><autocolor>Benchmarked Autoware's planner in Carla simulation and contributed to the system design of landmark-based localization.</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Bajaj Finserv - Software Engineer</h4>
 <ul style="margin:0 0 5px;">
   <li><a><autocolor>Leveraged .Net Core for Web API creation and Ado.Net for database integration as a member of the Collections Portal Team.</autocolor></a></li>

@@ -4,7 +4,7 @@ layout: homepage
 
 
 
-I am a student at Worcester Polytechnic Institute(WPI) pursuing Robotics Engineering. 
+I am a student at Worcester Polytechnic Institute(WPI) pursuing Robotics Engineering.
 I am interested in the domain of Robotics, specifically Perception, Computer Vision and deep learning in the field of manipulation and mobile robots. I am currently working on vision transformers and grasp generation.
 
 
